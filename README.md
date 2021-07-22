@@ -1,0 +1,1 @@
+Hasil belajar dari [Mentoring Basic Python Indonesia AI Batch 6](https://www.instagram.com/indonesia.ai/).
